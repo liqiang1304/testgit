@@ -2,3 +2,4 @@ new file.
 new line.
 add new line after reset dev.
 modify line in another place.
+add new line after merge in dev.
